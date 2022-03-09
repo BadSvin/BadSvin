@@ -1,0 +1,3 @@
+- Hello, I’m BadSvin
+- I'm a developer in HoI4 mod
+- Let's just do it!
